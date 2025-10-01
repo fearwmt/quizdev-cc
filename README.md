@@ -7,14 +7,20 @@
 - MySQL
 - NPM
 
+## 🚀 การรัน Project
+
 ```bash
+# Backend
 cd backend
 npm install        
 npm run start:dev
+```
 
 ```bash
+# Frontend
 cd frontend
 npm install
 npm start
+```
 
 

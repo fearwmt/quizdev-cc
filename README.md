@@ -21,6 +21,8 @@ npm run start:dev
 cd frontend
 npm install
 npm start
+Would you like to run the app on another port instead? (Y/n)
+Press Y
 ```
 
 

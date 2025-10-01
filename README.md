@@ -7,13 +7,14 @@
 - MySQL
 - NPM
 
-# backend
+```bash
 cd backend
 npm install        
 npm run start:dev
 
-
-# frontend
+```bash
 cd frontend
 npm install
 npm start
+
+
